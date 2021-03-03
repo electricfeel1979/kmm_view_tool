@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+KmmViewTool::Renderer.copyright 'Kevin Mark Montesclaros', 'All rights reserve'
+```
 
 ## Development
 
