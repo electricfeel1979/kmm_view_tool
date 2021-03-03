@@ -6,11 +6,11 @@ Gem::Specification.new do |spec|
   spec.name          = "kmm_view_tool"
   spec.version       = KmmViewTool::VERSION
   spec.authors       = ["Kevin Mark Montesclaros"]
-  spec.email         = ["TODO: Write your email address"]
+  spec.email         = ["kmm1251@gmail.com"]
 
-  spec.summary       = "Test gem"
+  spec.summary       = "Test gem by kmm1251"
   spec.description   = "This is just part of the tutorial from udemy"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage      = "www.facebook.com"
   spec.required_ruby_version = Gem::Requirement.new(">= 2.4.0")
 
   spec.metadata["allowed_push_host"] = "TODO: Set to 'http://mygemserver.com'"
